@@ -2,7 +2,7 @@
 PyQt4 GUI based app for  analysis of different image segmentation algorithm. All algorithm is in python language.
 
   # Simple and Efficient Seeded Region Growth Algorithm
-      Hi friend ! In my file filename has 3 different approach for region growth algorithm.
+    Hi friend ! In my file filename has 3 different approach for region growth algorithm.
       In first one is region_grow_point in which I take one seed point and every time key of region
       growth is the difference between this seed and another point.But it is inefficient and not gonna 
       work proper. Just think we have some point in cluster and we want to know, whether  an another point
