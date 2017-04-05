@@ -1,6 +1,10 @@
 # Image-Segmentation-Tool-Kit-
 PyQt4 GUI based app for  analysis of different image segmentation algorithm. All algorithm is in python language.
 
+Needed library : skimage, PIL, numpy, pyqt4, python 2.7
+
+And then use command on Linux : python cur_work.py
+
 # Simple and Efficient Seeded Region Growth Algorithm
       Hi friends ! In my file Region_grow.py has 3 different approach for region growth algorithm.
       In first one is region_grow_point in which I take one seed point and every time key of region
